@@ -1,0 +1,21 @@
+---
+- name: 'Burgers :hamburger:'
+  search_term: hamburger
+- name: 'Pizza :pizza:'
+  search_term: pizza
+- name: 'Thai :flag-th:'
+  search_term: thai
+- name: 'Singaporean :flag-sg:'
+  search_term: singapore
+- name: 'Ramen :ramen:'
+  search_term: ramen
+- name: 'Soba :flag-jp:'
+  search_term: ramen
+- name: 'Chinese :flag-cn:'
+  search_term: chinese
+- name: 'French :flag-fr:'
+  search_term: french
+- name: 'Pasta :spaghetti:'
+  search_term: pasta
+- name: 'Curry :curry:'
+  search_term: curry
